@@ -1,2 +1,2 @@
 # Wallet
-Azarus Inventory Wallett
+Azarus Inventory Wallet
